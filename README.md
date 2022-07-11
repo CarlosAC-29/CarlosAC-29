@@ -4,9 +4,9 @@
 <h3 align="center">I'm a systems engineering student from Colombia🌎 that enjoys coding and is looking forward to being a part of awesome projects</h3>
 
 
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<ul><li>Im open for collaborations 👍<li/></ul>
 <a href="https://linkedin.com/in/carlos caceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos caceres" height="30" width="40" /></a>
 </p>
 
