@@ -1,9 +1,9 @@
 ### Hi there, I'm Carlos 👋
 ![](https://github.com/CarlosAC-29/CarlosAC-29/blob/main/Banner.png)
 
-<h3 align="center">I'm a systems engineering student from Colombia🌎 that enjoys coding and is looking forward to being a part of awesome projects</h3>
-<li> Im open for collaborations 👍
-<li> I'm currently studying at Universidad del Valle 📑
+<h3 align="center">I'm a SENA software developer based in Cali, Colombia, who is passionate about developing new technologies that may improve people's day-to-day lives. At this time, I'm a system engineering student at the Universidad del Valle. Some technologies I enjoy working with include Java, Javascript, HTML5, CSS, and Reactjs.</h3>
+
+<li> Looking foward to be part of collaborations 👍
 
 <h3 align="left">Connect with me:</h3>
 <a href="#"Carlosmicro33@gmail.com></a>
