@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Carlos
+### Hi there, I'm Carlos 👋
 ![](https://github.com/CarlosAC-29/CarlosAC-29/blob/main/Banner.png)
 
 <h3 align="center">I'm a systems engineering student from Colombia🌎 that enjoys coding and is looking forward to being a part of awesome projects</h3>
