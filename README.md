@@ -1,12 +1,13 @@
 ### Hi there, I'm Carlos 👋
 ![](https://github.com/CarlosAC-29/CarlosAC-29/blob/main/Banner.png)
 
-<h3>I'm a SENA software developer based in Cali, Colombia, who is passionate about developing new technologies that may improve people's day-to-day lives. At this time, I'm a system engineering student at the Universidad del Valle. Some technologies I enjoy working with include Java, Javascript, HTML5, CSS, and Reactjs.</h3>
+<h3>I'm a software developer based in Cali, Colombia🌎, who is passionate about developing new technologies that may improve people's day-to-day lives. At this time, I'm a system engineering student at the Universidad del Valle. Some technologies I enjoy working with include Java, Javascript, HTML5, CSS, and Reactjs.</h3>
 
-<li>Looking foward to be part of collaborations 👍
+<li>Software developer from SENA (Colombia) 💻
+<li>Looking foward to be part of web apps collaborations 👍
 
 <h3 align="left">Connect with me:</h3>
-<a href="#"Carlosmicro33@gmail.com></a>
+<a href="/"Carlosmicro33@gmail.com></a>
 <p align="left">
 <h3 align="left">Social</h3>
 <a href="https://linkedin.com/in/carlos caceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos caceres" height="30" width="40" /></a>
