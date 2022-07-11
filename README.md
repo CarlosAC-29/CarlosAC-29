@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p>Carlosmicro33@gmail.com</p>
 <p align="left">
-* Im open for collaborations 👍
+<li> Im open for collaborations 👍
 * I'm currently studying at Universidad del Valle 📑
 <h3 align="left">Social</h3>
 <a href="https://linkedin.com/in/carlos caceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos caceres" height="30" width="40" /></a>
