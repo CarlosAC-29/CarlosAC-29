@@ -3,7 +3,7 @@
 
 <h3>I'm a SENA software developer based in Cali, Colombia, who is passionate about developing new technologies that may improve people's day-to-day lives. At this time, I'm a system engineering student at the Universidad del Valle. Some technologies I enjoy working with include Java, Javascript, HTML5, CSS, and Reactjs.</h3>
 
-<li> <h3>Looking foward to be part of collaborations 👍</h3>
+<li> <p size="15">Looking foward to be part of collaborations 👍</9>
 
 <h3 align="left">Connect with me:</h3>
 <a href="#"Carlosmicro33@gmail.com></a>
