@@ -4,8 +4,9 @@
 <h3 align="center">I'm a systems engineering student from Colombia🌎 that enjoys coding and is looking forward to being a part of awesome projects</h3>
 
 
-<hr/>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> https://www.linkedin.com/in/carlos-c%C3%A1ceres-836596137/
+<br/>
+<h3>Socials<h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Carlos Cáceres/)  
 
 
 
