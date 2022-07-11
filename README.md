@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Carlos
 ![](https://github.com/CarlosAC-29/CarlosAC-29/blob/main/Banner.png)
 
-I'm a systems engineering student 💻 based in Cali, Colombia🌎 that enjoys coding and is looking forward to being a part of awesome projects
+<h3 align="center">I'm a systems engineering student from Colombia🌎 that enjoys coding and is looking forward to being a part of awesome projects</h3>
 
 
 
