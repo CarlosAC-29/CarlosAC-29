@@ -7,7 +7,7 @@
 <li>Looking foward to be part of web apps collaborations 👍
 
  <hr/>
-<h3 align="left">📧<Connect with me:</h3>
+<h3 align="left">Connect with me: 📧</h3>
 <a href="mailto:carlosmicro33@gmail.com">carlosmicro33@gmail.com</a>
 <p align="left">
 <h3 align="left">📣<Social</h3>
