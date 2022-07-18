@@ -1,4 +1,3 @@
-### Hi there, I'm Carlos 👋
 ![](https://github.com/CarlosAC-29/CarlosAC-29/blob/main/BannerReadMe.png?raw=true)
 
 <h3>I'm a software developer based in Cali, Colombia🌎, who is passionate about developing new technologies that may improve people's day-to-day lives. At this time, I'm a system engineering student at the Universidad del Valle. Some technologies I enjoy working with include Java, JavaScript, HTML5, CSS, and ReactJS.</h3>
