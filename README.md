@@ -4,7 +4,7 @@
 <h3>I'm a software developer based in Cali, Colombia🌎, who is passionate about developing new technologies that may improve people's day-to-day lives. At this time, I'm a system engineering student at the Universidad del Valle. Some technologies I enjoy working with include Java, JavaScript, HTML5, CSS, and ReactJS.</h3>
 
 <li>Software developer from SENA (Colombia) 💻
-<li>Looking foward to be part of web apps collaborations 👍
+<li>I am looking forward to collaborating on WebApps projects 👍
 
  <hr/>
 <h3 align="left">📧Connect with me:</h3>
